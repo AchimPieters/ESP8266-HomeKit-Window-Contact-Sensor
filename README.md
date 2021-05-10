@@ -1,7 +1,6 @@
 # ESP8266-HomeKit-Window-Contact-Sensor
 Window Contact Sensor
 
-## WORK IN PROGRESS!
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/achimpieters/ESP8266-HomeKit-Window-Contact-Sensor)
 ![GitHub All Releases](https://img.shields.io/github/downloads/achimpieters/ESP8266-HomeKit-Window-Contact-Sensor/total)
